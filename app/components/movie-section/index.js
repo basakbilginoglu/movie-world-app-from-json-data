@@ -1,10 +1,9 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-
 import styles from "./styles.module.css";
 
-export default function MoviesSection({ title, movies }) {
+export default function MoviesSection({ title, movies = [] }) {
   return (
     <div className={styles.moviesSection}>
       <h3 className={styles.title}>{title}</h3>
