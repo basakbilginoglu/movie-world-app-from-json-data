@@ -15,7 +15,7 @@ All movie data is sourced from a local **JSON file**
 
 ## 🖼️ Screenshots
 
-*(You can add some screenshots of the project UI here)*
+
 
 ## 🛠️ Tech Stack
 
@@ -23,19 +23,3 @@ All movie data is sourced from a local **JSON file**
 - React  
 - Static JSON for data  
 
-## 📦 Installation
-
-To run the project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/movie-explorer.git
-
-# Navigate into the project folder
-cd movie-explorer
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm run dev
